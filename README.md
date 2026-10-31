@@ -1,29 +1,47 @@
-# Awesome Revenue Operations & Lifecycle Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated list of awesome Revenue Operations (RevOps), quote-to-cash, subscription billing lifecycle, ASC 606 revenue recognition platforms, and self-hosted open-source revenue intelligence tools.
+<img src="./assets/banner.svg" alt="Awesome Revenue Operations & Lifecycle Management Banner" width="100%" />
 
-Revenue Operations (RevOps) aligns sales, marketing, finance, and customer success across the end-to-end customer lifecycle. This repository tracks notable commercial SaaS platforms and open-source software powering subscription lifecycle management, billing engines, automated revenue recognition, and revenue data platforms.
+# 📈 Awesome Revenue Operations & Lifecycle Management
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesom"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+<p align="center">
+  <b>A curated catalog of awesome Revenue Operations (RevOps), quote-to-cash, subscription billing lifecycle, ASC 606 revenue recognition platforms, and self-hosted open-source revenue intelligence tools.</b>
+</p>
+
+</div>
 
 ---
 
-## Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS Platforms](#saas-platforms)
-- [Open-Source Projects](#open-source-projects)
-- [Frameworks for Custom Architectures](#frameworks-for-custom-architectures)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+Revenue Operations (RevOps) aligns sales, marketing, finance, and customer success across the end-to-end customer journey. This repository tracks notable commercial SaaS platforms and open-source software powering subscription lifecycle management, billing engines, automated revenue recognition, and revenue data platforms.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS Platforms](#️-saas-platforms)
+- [💻 Open-Source Projects](#-open-source-projects)
+- [🏗️ Frameworks for Custom Architectures](#️-frameworks-for-custom-architectures)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
 
 The global Revenue Operations (RevOps) software and platform market is estimated between **$4.4B and $6.2B**, projected to surge past **$17B–$21.7B** at a 15–17% CAGR. The sector remains **moderately to highly fragmented** rather than winner-take-all, divided across specialized sub-domains (conversation intelligence, pipeline forecasting, usage billing, CPQ, and ASC 606/IFRS 15 revenue recognition) where enterprise giants (Salesforce, HubSpot) co-exist with focused best-of-breed suites (Clari, Gong, Chargebee, Maxio).
 
 ---
 
-## SaaS Platforms
+## ☁️ SaaS Platforms
 
 Commercial cloud platforms for revenue intelligence, deal execution, automated billing, and compliance-grade revenue recognition. Sorted by enterprise scale (revenue / market valuation descending).
 
@@ -41,7 +59,7 @@ Commercial cloud platforms for revenue intelligence, deal execution, automated b
 
 ---
 
-## Open-Source Projects
+## 💻 Open-Source Projects
 
 Self-hosted billing engines, revenue intelligence pipelines, CPQ packages, and accounting-grade revenue recognition tools. Sorted by GitHub star count descending.
 
@@ -63,19 +81,37 @@ Self-hosted billing engines, revenue intelligence pipelines, CPQ packages, and a
 
 ---
 
-## Frameworks for Custom Architectures
+## 🏗️ Frameworks for Custom Architectures
 
 When constructing custom enterprise RevOps and billing stacks:
 
-- **Usage Metering & Invoicing**: [Lago](https://github.com/getlago/lago) and [Polar](https://github.com/polarsource/polar) deliver robust event-driven billing APIs without vendor lock-in.
-- **Ledger-Grade Revenue Recognition**: [Recurso](https://github.com/recurso-dev/recurso) pairs a double-entry ledger with automated ASC 606 recognition; [eRev](https://github.com/ChipmunkRPA/eRev) handles desktop accounting workflows.
-- **Enterprise Subscription Infrastructure**: [Kill Bill](https://github.com/killbill/killbill) offers battle-tested scale and multi-tenant payment routing.
-- **Warehouse-Centric RevOps Intelligence**: The [B2B SaaS RevOps Intelligence Engine](https://github.com/farrux05-ai/b2b-saas-revops-intelligence) and [Inspector](https://github.com/getbeton/inspector) enable Reverse ETL and signal-based sales orchestration.
-- **Order-to-Cash & CPQ**: Combine [SwiftCPQ](https://github.com/christopher-talke/SwiftCPQ) for front-end configure-price-quote and [nexus-sales-operations](https://github.com/azaharizaman/nexus-sales-operations) for order processing.
+- 💳 **Usage Metering & Invoicing**: [Lago](https://github.com/getlago/lago) and [Polar](https://github.com/polarsource/polar) deliver robust event-driven billing APIs without vendor lock-in.
+- 📚 **Ledger-Grade Revenue Recognition**: [Recurso](https://github.com/recurso-dev/recurso) pairs a double-entry ledger with automated ASC 606 recognition; [eRev](https://github.com/ChipmunkRPA/eRev) handles desktop accounting workflows.
+- ⚙️ **Enterprise Subscription Infrastructure**: [Kill Bill](https://github.com/killbill/killbill) offers battle-tested scale and multi-tenant payment routing.
+- 🔄 **Warehouse-Centric RevOps Intelligence**: The [B2B SaaS RevOps Intelligence Engine](https://github.com/farrux05-ai/b2b-saas-revops-intelligence) and [Inspector](https://github.com/getbeton/inspector) enable Reverse ETL and signal-based sales orchestration.
+- 📑 **Order-to-Cash & CPQ**: Combine [SwiftCPQ](https://github.com/christopher-talke/SwiftCPQ) for front-end configure-price-quote and [nexus-sales-operations](https://github.com/azaharizaman/nexus-sales-operations) for order processing.
 
 ---
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](htpps://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Revenue-Operations-Lifecycle-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Revenue-Operations-Lifecycle-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and using this resource! 🙏
+
+If you found this curated list helpful for evaluating revenue operations architectures, please consider:
+- ⭐ **Starring** this repository to help others discover it.
+- 🍴 **Forking** the repo and contributing additional tools or updates.
+- 📢 **Sharing** this repository with your engineering, finance, and RevOps peers.
+- ☕ **Buying a coffee / sponsoring** the project via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support helps keep this guide active and thoroughly maintained!
+
+---
+
+## 🤝 How to Contribute
 
 Contributions are welcome! To propose new platforms, frameworks, or updates:
 
@@ -86,7 +122,7 @@ Contributions are welcome! To propose new platforms, frameworks, or updates:
 
 ---
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 - This curated list is maintained for educational and architectural evaluation purposes.
 - Revenue recognition tooling must adhere to GAAP (ASC 606) and IFRS 15 standards. Operators using self-hosted platforms assume full legal and accounting responsibility for ledger reconciliation and tax compliance.
