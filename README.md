@@ -61,9 +61,9 @@ Commercial cloud platforms for revenue intelligence, deal execution, automated b
 
 ## 💻 Open-Source Projects
 
-Self-hosted billing engines, revenue intelligence pipelines, CPQ packages, and accounting-grade revenue recognition tools. Sorted by GitHub star count descending.
+Self-hosted billing engines, revenue intelligence pipelines, CPQ packages, and accounting-grade revenue recognition tools. Sorted by GitHub Stars_Count descending.
 
-| Project | Stars | Language / Tech Stack | Primary Focus & Capabilities |
+| Project | GitHub_Stars | Language / Tech Stack | Primary Focus & Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Ruby / Go | **Open-source metering and usage-based billing platform**. Provides high-scale consumption tracking, subscription lifecycle management, automated invoicing, real-time credit drawdowns, and native payment processor orchestration (Stripe, Adyen, GoCardless). |
 | **[Polar](https://github.com/polarsource/polar)** | [![Stars](https://img.shields.io/github/stars/polarsource/polar?style=social&color=white)](https://github.com/polarsource/polar/stargazers) | Python / FastAPI / React | **Modern billing and merchant platform for developers**. Manages subscription checkouts, digital product licensing, usage meters, custom discounts, and developer payout infrastructure. |
@@ -127,3 +127,12 @@ Contributions are welcome! To propose new platforms, frameworks, or updates:
 - This curated list is maintained for educational and architectural evaluation purposes.
 - Revenue recognition tooling must adhere to GAAP (ASC 606) and IFRS 15 standards. Operators using self-hosted platforms assume full legal and accounting responsibility for ledger reconciliation and tax compliance.
 - All product names, logos, and brands are property of their respective owners.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Revenue-Operations-Lifecycle-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Revenue-Operations-Lifecycle-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Revenue-Operations-Lifecycle-Management_growth.svg">
+  </picture>
+</a>
